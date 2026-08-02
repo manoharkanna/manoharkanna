@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems, IoT and robotics applications  
 - 🌱 I’m currently learning JAVA OpenCV and advanced ESP32 development 
 - 💞️ I’m looking to collaborate on smart home automation, autonomous robots, and open-source electronics projects  
-- 📫 How to reach me: manoharkanna132@gmail.com  
+- 📫 How to reach me: kannamanohar2007@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love blending low-cost hardware with smart automation to solve real-life problems!
 
